@@ -1,0 +1,14 @@
+@article{10.2307/3558660,
+ ISSN = {09628452},
+ URL = {http://www.jstor.org/stable/3558660},
+ abstract = {Male blowflies chase and catch other flies in fast acrobatic flights. To unravel the underlying control system, we presented a black moving sphere instead of a real fly as a pursuit target. By varying the size and speed of the target, we were able to systematically analyse the decisive visual determinants that guide chasing behaviour. Flies pursue targets of a wide range of sizes and velocities. The percentage of pursuits resulting in target capture decreases with increasing target size and speed. Chasing male flies adjust their forward velocity depending on the retinal size of the target, indicating that retinal size is a relevant input variable of the control system. The chasing fly focuses the target with great accuracy in the frontal part of its visual field by means of a smooth pursuit control system using the retinal position of the target to determine the flight direction. We conclude that for a comprehensive understanding of chasing control different time lags in the control systems of angular and forward velocity together with the impact of inertia on fly movements need to be taken into account.},
+ author = {Norbert Boeddeker and Roland Kern and Martin Egelhaaf},
+ journal = {Proceedings: Biological Sciences},
+ number = {1513},
+ pages = {393--399},
+ publisher = {The Royal Society},
+ title = {Chasing a Dummy Target: Smooth Pursuit and Velocity Control in Male Blowflies},
+ volume = {270},
+ year = {2003}
+}
+
